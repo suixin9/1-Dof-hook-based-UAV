@@ -32,3 +32,13 @@
 ![32CB 支架预览](designs/32cb-flat-v1/preview.png)
 
 图片未标明的底板厚度、另一边长度和圆角为暂定，详见尺寸说明。
+
+## 电池底座与双耳支架一体件
+
+支架位于底面正中央，销轴沿短边（无人机左右方向），hook前后摆动。保留4 mm加强板，局部原开槽被遮挡。
+
+- [下载全部文件](designs/battery-clevis-v1/battery_clevis_files.zip)
+- [尺寸与验证说明](designs/battery-clevis-v1/README.md)
+- [STEP](designs/battery-clevis-v1/battery_with_clevis.step) / [STL](designs/battery-clevis-v1/battery_with_clevis.stl)
+
+![一体件预览](designs/battery-clevis-v1/preview.png)
