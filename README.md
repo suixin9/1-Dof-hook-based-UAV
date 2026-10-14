@@ -33,12 +33,16 @@
 
 图片未标明的底板厚度、另一边长度和圆角为暂定，详见尺寸说明。
 
-## 电池底座与双耳支架一体件
+## 电池底座与双耳支架一体件 v2（最新）
 
-支架位于底面正中央，销轴沿短边（无人机左右方向），hook前后摆动。保留4 mm加强板，局部原开槽被遮挡。
+中央三个细槽填实，取消下方4 mm叠加底板，双耳直接从电池底座向下延伸。方向、间距及销孔位置不变。其他孔槽保留。
 
-- [下载全部文件](designs/battery-clevis-v1/battery_clevis_files.zip)
-- [尺寸与验证说明](designs/battery-clevis-v1/README.md)
-- [STEP](designs/battery-clevis-v1/battery_with_clevis.step) / [STL](designs/battery-clevis-v1/battery_with_clevis.stl)
+- [下载最新版全部文件](designs/battery-clevis-v2/battery_clevis_v2_files.zip)
+- [尺寸与验证说明](designs/battery-clevis-v2/README.md)
+- [STEP](designs/battery-clevis-v2/battery_with_clevis.step) / [STL](designs/battery-clevis-v2/battery_with_clevis.stl)
 
-![一体件预览](designs/battery-clevis-v1/preview.png)
+![最新一体件预览](designs/battery-clevis-v2/preview.png)
+
+原1 mm板厚保留，尚未完成承重验证。
+
+[历史v1：保留4 mm加强板的版本](designs/battery-clevis-v1/README.md)
