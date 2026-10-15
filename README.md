@@ -33,16 +33,16 @@
 
 图片未标明的底板厚度、另一边长度和圆角为暂定，详见尺寸说明。
 
-## 电池底座与双耳支架一体件 v2（最新）
+## 电池底座与双耳支架一体件 v3（最新版，板厚2 mm）
 
-中央三个细槽填实，取消下方4 mm叠加底板，双耳直接从电池底座向下延伸。方向、间距及销孔位置不变。其他孔槽保留。
+电池板由1 mm向上加厚至2 mm，其余保持v2设计：中央三个细槽填实、无叠加加强底座、双耳直接连接底面。双耳、销孔、其他孔槽的位置和尺寸不变。
 
-- [下载最新版全部文件](designs/battery-clevis-v2/battery_clevis_v2_files.zip)
-- [尺寸与验证说明](designs/battery-clevis-v2/README.md)
-- [STEP](designs/battery-clevis-v2/battery_with_clevis.step) / [STL](designs/battery-clevis-v2/battery_with_clevis.stl)
+- [下载最新版全部文件](designs/battery-clevis-v3/battery_clevis_v3_files.zip)
+- [尺寸与验证说明](designs/battery-clevis-v3/README.md)
+- [STEP](designs/battery-clevis-v3/battery_with_clevis.step) / [STL](designs/battery-clevis-v3/battery_with_clevis.stl)
 
-![最新一体件预览](designs/battery-clevis-v2/preview.png)
+![最新一体件预览](designs/battery-clevis-v3/preview.png)
 
-原1 mm板厚保留，尚未完成承重验证。
+尚未完成承重验证。
 
-[历史v1：保留4 mm加强板的版本](designs/battery-clevis-v1/README.md)
+历史版本：[v2：板厚1 mm](designs/battery-clevis-v2/README.md)；[v1：有4 mm加强板](designs/battery-clevis-v1/README.md)。
